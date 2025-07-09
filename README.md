@@ -12,7 +12,7 @@ Apaixonado por construir sistemas intuitivos, testar o impossível com IA's e cr
 
 🔍 Atuo como Analista e Desenvolvedor de Software, com foco em performance, usabilidade e comportamento do usuário. Minha abordagem é: pensar como usuário, programar como arquiteto.
 
-💡 Desenvolvo projetos aplicando React, Firebase, TypeScript, Python e Socket.IO — inspirado por como grandes empresas constroem suas stacks, mas com liberdade criativa de um inventor em laboratório.
+💡 Desenvolvo projetos aplicando React, Firebase, TypeScript, Python e Socket.IO, inspirado por como grandes empresas constroem suas stacks, mas com liberdade criativa de um inventor em laboratório.
 
 ---
 
@@ -20,7 +20,7 @@ Apaixonado por construir sistemas intuitivos, testar o impossível com IA's e cr
 
 - Estudo Machine Learning e IA pra criar sistemas adaptativos e inteligentes  
 - Testo stacks modernas com foco em MVPs ágeis e eficientes  
-- Observo como as pessoas interagem com sistemas — e reprogramo a experiência com base nisso  
+- Observo como as pessoas interagem com sistemas, e reprogramo a experiência com base nisso  
 - Curioso por natureza, automatizo processos com IA, APIs, bots e integrações visuais  
 
 ---
