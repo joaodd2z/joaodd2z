@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="330" viewBox="0 0 1200 330" role="img" aria-label="Jasão: criação, código e propósito">
+<defs><linearGradient id="accent"><stop stop-color="#b9a4ff"/><stop offset="1" stop-color="#78e6ed"/></linearGradient><pattern id="grid" width="32" height="32" patternUnits="userSpaceOnUse"><path d="M32 0H0V32" fill="none" stroke="#242938" stroke-width=".6"/></pattern></defs>
+<rect width="1200" height="330" rx="18" fill="#10131c"/><rect x="770" width="430" height="330" fill="url(#grid)"/>
+<circle cx="1060" cy="130" r="125" fill="#b9a4ff" opacity=".07"/><circle cx="1005" cy="185" r="95" fill="none" stroke="#78e6ed" stroke-opacity=".35"/><path d="M880 185h120v-65h90v155h-210z" fill="none" stroke="url(#accent)" stroke-width="2"/><path d="M965 80l18-18 18 18-18 18z" fill="#b9a4ff"/><path d="M1100 250h40M1120 230v40" stroke="#78e6ed" stroke-width="2"/>
+<text x="52" y="65" fill="#a2a8be" font-family="Arial,sans-serif" font-size="12" letter-spacing="3">CRIADOR POR NATUREZA / JBOFFICE</text>
+<text x="48" y="162" fill="#f3f0ff" font-family="Arial,sans-serif" font-weight="700" font-size="88" letter-spacing="-5">JASÃO<tspan fill="url(#accent)">.</tspan></text>
+<text x="53" y="211" fill="#b9a4ff" font-family="Arial,sans-serif" font-size="23">Criação. Código. Propósito.</text>
+<path d="M52 240h680" stroke="#34394b"/>
+<text x="53" y="282" fill="#78e6ed" font-family="Arial,sans-serif" font-size="13" letter-spacing="1.3">SISTEMAS / AUDIOVISUAL / EXPERIÊNCIAS DIGITAIS</text>
+</svg>

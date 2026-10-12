@@ -1,72 +1,44 @@
-<h1 align="center">Oi, eu sou o Jasão (João Lucas de Oliveira) 👨‍💻</h1>
+![Jasão — criação, código e propósito](assets/jasao-banner.svg)
 
-<p align="center">
-  Full Stack Developer (ANALISTA E DESENVOLVEDOR DE SISTEMAS) · Criador de Sistemas · Explorador de IA's com um arsenal real de ideias e código
-</p>
+# João Lucas de Oliveira · Jasão
 
----
+**Um pé no audiovisual. Outro no código. Os dois na criação.**
 
-### 🚀 Sobre mim
+Sou criador de sistemas, automações e experiências digitais. Gosto de juntar imaginação, interface e engenharia para transformar uma ideia em algo que uma pessoa consiga usar de verdade.
 
-Apaixonado por construir sistemas intuitivos, testar o impossível com IA's e criar soluções que realmente funcionam no mundo real.
+Construo a **JBOFFICE com a Bruna**: um estúdio independente onde criação e tecnologia trabalham juntas. Nosso primeiro case público é a própria experiência do estúdio, com identidade própria, navegação por capítulos e briefing interativo.
 
-🔍 Atuo como Analista e Desenvolvedor de Software, com foco em performance, usabilidade e comportamento do usuário. Minha abordagem é: pensar como usuário, programar como arquiteto.
+[**Explore a JBOFFICE ↗**](https://jboffice.netlify.app) · [LinkedIn](https://www.linkedin.com/in/jasao369/) · [Converse sobre um projeto](https://wa.me/5533999516555)
 
-💡 Desenvolvo projetos aplicando React, Firebase, TypeScript, Python e Socket.IO, inspirado por como grandes empresas constroem suas stacks, mas com liberdade criativa de um inventor em laboratório.
+## O que eu crio
 
----
+- **Sistemas e automações:** interfaces, fluxos de trabalho, integrações e ferramentas que começam pelo problema a resolver.
+- **Experiências digitais:** páginas com direção visual própria, interação útil e cuidado com o celular.
+- **Audiovisual:** edição, clipes e fluxos de produção; adaptação PT→EN com materiais e voz autorizados, amostra e revisão.
+- **IA aplicada:** apoio à criação, organização e execução, com validação e responsabilidade humana.
 
-### 🧠 Em constante evolução
+## Meu laboratório
 
-- Estudo Machine Learning e IA pra criar sistemas adaptativos e inteligentes  
-- Testo stacks modernas com foco em MVPs ágeis e eficientes  
-- Observo como as pessoas interagem com sistemas, e reprogramo a experiência com base nisso  
-- Curioso por natureza, automatizo processos com IA, APIs, bots e integrações visuais  
+**JBOFFICE** — criação e tecnologia com Jasão & Bruna.
 
----
+**Sistema do Jasão / Sistema Six** — pesquisa e desenvolvimento de sistemas, automação e experiências interativas.
 
-### 🧩 Projetos que contam minha história
+**Universo Z Studio** — ferramentas e fluxos de produção audiovisual.
 
-- **Sistema do Jasão** – Sistema funcional completo usando React, FastAPI e Firebase  
-- **Plataforma Onirus** – Central colaborativa estilo Bitrix/Discord com chat, feed e ferramentas por área  
-- **Sistemas de Serviços Infraestrutura** – Gerenciador logístico desenvolvido para o setor de infraestrutura da Faculdade IBRA  
-- **Sistema Controle de Portaria** – Aplicativo funcional para o segurança da Mantenedora IBRA (Caratinga/MG)  
-- **CifrAstral** – App para músicos, com cifra automática e auto-rolagem de repertório (feito com alma de artista e código limpo)
+Também fazem parte da minha trajetória projetos de gestão de infraestrutura, controle de portaria, colaboração e ferramentas para músicos, como o CifrAstral. Os sistemas internos e os materiais de clientes não são publicados aqui.
 
----
+## Como eu trabalho
 
-### 🛠️ Tecnologias & Ferramentas
+Entender o contexto → definir o escopo → construir uma amostra → testar → revisar.
 
-![React](https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react&logoColor=white)
-![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
-![Firebase](https://img.shields.io/badge/-Firebase-FFCA28?style=flat&logo=firebase&logoColor=black)
-![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat&logo=node.js&logoColor=white)
-![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)
-![Socket.IO](https://img.shields.io/badge/-Socket.IO-010101?style=flat&logo=socketdotio&logoColor=white)
-![TailwindCSS](https://img.shields.io/badge/-TailwindCSS-38B2AC?style=flat&logo=tailwind-css&logoColor=white)
-![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)
-![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white)
-![Figma](https://img.shields.io/badge/-Figma-F24E1E?style=flat&logo=figma&logoColor=white)
+Uso React, TypeScript, Python, FastAPI, Firebase, Electron e ferramentas de mídia conforme o projeto. A tecnologia serve à entrega; a entrega precisa ser conferida.
 
-> Curiosidade: já tive contato com Java em projetos experimentais, mas hoje foco em stacks modernas.
+Gosto de sistemas com personalidade, mas personalidade não substitui funcionamento. Prefiro mostrar um trabalho próprio e combinar critérios de aceite a prometer automação ilimitada ou resultado financeiro garantido.
 
----
+## Vamos criar algo que tenha a sua cara?
 
-### 📊 GitHub Stats
+**Portfólio:** https://jboffice.netlify.app  
+**Contato profissional:** joaolucas.oliveira.griffin@gmail.com  
+**LinkedIn:** https://www.linkedin.com/in/jasao369/
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=joaodd2z&show_icons=true&theme=radical" height="150" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=joaodd2z&layout=compact&theme=radical" height="150"/>
-</div>
-
----
-
-### 📫 Contato direto
-
-- 🌐 Portfólio: [meu-portfólio](https://meu-portifolio-wine-rho.vercel.app)  
-- 💼 [LinkedIn](https://linkedin.com/in/joão-lucas-de-oliveira-4973b027b)  
-- 💬 Discord: `@jasao369tesla`
-
----
-
-> “Programar é escrever o futuro — linha por linha, bug por bug, até funcionar como mágica.”
+> Criar é dar forma ao que ainda não existe — e cuidar para que funcione.
